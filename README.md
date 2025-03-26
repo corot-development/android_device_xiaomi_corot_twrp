@@ -13,6 +13,9 @@ Shipped Android Version | 13
 Storage | 256/512/1024 GB
 Battery | 5000 mAh, Li-Polymer
 
+## Fix mifs? 
+[commit](https://github.com/YuKongA/android_bootable_recovery_twrp-14/commit/d7167c4d7b9cd341c049d62c876f365b58a39542)
+
 ## Features
 
 Works:
