@@ -106,7 +106,6 @@ on property:twrp.decrypt.done=true
     stop vendor.gatekeeper-1-0
     stop tee-supplicant
     stop miteelog
-    
 
 on property:crypto.ready=0
     stop vendor.keymint-mitee
