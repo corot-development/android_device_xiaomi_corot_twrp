@@ -1,4 +1,6 @@
-import /init.recovery.project.rc
+import /keymint.service.mitee.rc
+import /tee-supplicant.rc
+import /miteelog.rc
 
 on post-fs
     start boot-hal-1-2
